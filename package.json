@@ -1,0 +1,25 @@
+{
+  "name": "ml5_libreria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanqui-art/ml5_libreria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanqui-art/ml5_libreria/issues"
+  },
+  "homepage": "https://github.com/juanqui-art/ml5_libreria#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "ml5": "^0.12.2",
+    "p5": "^1.6.0"
+  }
+}
